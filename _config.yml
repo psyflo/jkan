@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: a9587cd33f458a76a4ee
-gatekeeper_host: https://mmidata.herokuapp.com
+github_client_id: 72f60cb4bc91c3d7357a
+gatekeeper_host: https://jkan-mmi.herokuapp.com
 
 # Dataset schema
 schema: default
